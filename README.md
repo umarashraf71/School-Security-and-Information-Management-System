@@ -14,5 +14,7 @@ A school management system build in core PHP, HTML, CSS, BOOTSTRAP, JAVASCRIPT, 
 - ###### Teacher Attendence
 - ###### Staff Attendence
 
-> Sorry database sql file not included for privacy reasons
+
+
+*Sorry database sql file not included for privacy reasons*
 
