@@ -4,7 +4,7 @@
 
 A school management system build in core PHP, HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, AJAX.
 
-###### System Modules
+###### **System Modules**
 
 - **Admin**
 - **Accountant**
