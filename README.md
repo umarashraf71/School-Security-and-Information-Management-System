@@ -4,12 +4,15 @@
 
 A school management system build in core PHP, HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, AJAX.
 
-###### **System Modules**
+**System Modules**
 
-- **Admin**
-- **Accountant**
-- **Librarian**
-- **Labhead**
-- **Student Attendence**
-- **Teacher Attendence**
-- **Staff Attendence**
+- ###### Admin
+- ###### Accountant
+- ###### Librarian
+- ###### Labhead
+- ###### Student Attendence
+- ###### Teacher Attendence
+- ###### Staff Attendence
+
+> Sorry database sql file not included for privacy reasons
+
